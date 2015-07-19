@@ -1,0 +1,16 @@
+c:\users\cpowers\documents\visual studio 2013\Projects\bluePrint-master\bluePrint-master\bin\bluePrint-master.dll.config
+c:\users\cpowers\documents\visual studio 2013\Projects\bluePrint-master\bluePrint-master\bin\bluePrint-master.dll
+c:\users\cpowers\documents\visual studio 2013\Projects\bluePrint-master\bluePrint-master\bin\bluePrint-master.pdb
+c:\users\cpowers\documents\visual studio 2013\Projects\bluePrint-master\bluePrint-master\obj\Debug\bluePrint-master.dll
+c:\users\cpowers\documents\visual studio 2013\Projects\bluePrint-master\bluePrint-master\obj\Debug\bluePrint-master.pdb
+c:\users\cpowers\documents\visual studio 2013\Projects\bluePrint-master\bluePrint-master\obj\Debug\bluePrint-master.csprojResolveAssemblyReference.cache
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\IronRuby.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\IronRuby.Libraries.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\IronRuby.Libraries.Yaml.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\Microsoft.Dynamic.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\Microsoft.Scripting.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\SassAndCoffee.AspNet.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\SassAndCoffee.Core.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\SassAndCoffee.JavaScript.dll
+C:\Users\cpowers\Documents\Visual Studio 2013\Projects\bluePrint-master\bluePrint-master\bin\SassAndCoffee.Ruby.dll
